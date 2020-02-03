@@ -24,7 +24,7 @@ import Hengam from "hengam-react-native";
 # Sample App
 
 There is a sample app that you can access in the following address.
-`https://github.com/hengam-io/hengam-react-native/tree/master/PusheReactNativeDemoApp`.
+`https://github.com/hengam-io/hengam-react-native/tree/master/example`.
 
 # Issues
 
