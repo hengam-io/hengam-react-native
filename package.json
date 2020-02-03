@@ -1,0 +1,29 @@
+{
+  "name": "hengam-react-native",
+  "hengam-bundled-version": "1.0.8",
+  "description": "hengam.io plugin for react native iOS and Android platforms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "hengam.io",
+    "notification"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "hi@hengam.io"
+  },
+  "license": "",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
